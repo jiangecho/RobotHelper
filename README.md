@@ -25,3 +25,7 @@ String s = OcrApi.multLineOcr(ScreenCaptureUtil.getScreenCap(), 0, 0, 200, 30);
 MLog.info(s);
 ```
 以上代码将输出(0,0)到(200,30)这个矩形区域内的文字。
+
+
+
+我是大灰狼，来看看吉哥
